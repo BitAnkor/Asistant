@@ -1,4 +1,4 @@
-# Asistant
+# Assistant
 
 This Python file defines a simple assistant program that can perform various tasks using different libraries. The Assistant class includes methods to:
 
